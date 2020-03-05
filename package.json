@@ -13,7 +13,6 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
-    
   },
   "dependencies": {
     "@emotion/core": "^10.0.28",
